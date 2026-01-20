@@ -1,0 +1,15 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+httpx==0.24.1
+pydantic==2.5.1
+nmap-python==0.7.1
+scikit-learn==1.4.2
+xgboost==1.7.6
+pandas==2.2.2
+sqlalchemy==2.1.1
+alembic==1.11.1
+pytest==7.4.2
+uvloop==0.18.0
+gunicorn==21.2.0
+python-dotenv==1.1.1
+Jinja2==3.1.2
