@@ -44,3 +44,7 @@ Contributing / Next steps
 - Add authentication/RBAC for API.
 - Integrate real CVE/NVD sync pipeline and production DB (Postgres).
 - Add CI (unit tests, lint) and more realistic ML dataset.
+
+
+instagram: lz.uf 
+discord: f5uk
