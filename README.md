@@ -46,6 +46,6 @@ Contributing / Next steps
 - Add CI (unit tests, lint) and more realistic ML dataset.
 
 
-instagram: lz.uf 
+instagram: _zlaq 
 
-discord: f5uk
+discord: 9b4_
